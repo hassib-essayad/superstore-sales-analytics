@@ -55,9 +55,8 @@ YoY Growth          = DIVIDE(CurrentYear - PrevYear, PrevYear) * 100
 ```
 ---
 📈 Dashboards
-🏠 Home (Navigation Page)
-4 navigation buttons
-Dark theme (#0D1117)
+🏠 Home (Navigation Page) 4 navigation buttons Dark theme (#0D1117)
+
 📊 Sales Overview
 KPI Cards: Total Sales · Total Orders · Total Customers · Avg Sales per Order
 Sales by Category (Bar Chart)
@@ -65,6 +64,7 @@ Sales by Region (Bar Chart)
 Sales by Segment (Pie Chart)
 Sales Trend by Month (Line Chart)
 Year Slicer (2015-2018)
+
 👥 Customer Analytics
 KPI Cards: Total Customers · Total Sales · Avg Sales per Order
 Top 10 Customers by Sales (Bar Chart)
@@ -72,6 +72,7 @@ Sales by Segment (Bar Chart)
 Sales by State (Map)
 Orders by Ship Mode (Bar Chart)
 Segment Slicer
+
 🏷️ Product Analytics
 KPI Cards: Total Products · Total Sales
 Sales by Category (Bar Chart)
@@ -79,6 +80,7 @@ Sales by Sub-Category (Bar Chart)
 Top 10 Products (Bar Chart)
 Sales Band Distribution (Pie Chart)
 Category Slicer
+
 🚚 Shipping Analytics
 KPI Cards: Avg Days to Ship · Total Orders
 Orders by Ship Mode (Bar Chart)
